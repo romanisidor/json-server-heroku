@@ -26,7 +26,7 @@
         "NAME": "Vegetariana",
         "DETAILS": "Champiñón, morron, cebolla, granos de elote, piña y espinacas",
         "PRICE":["100.00","150","180","210"],
-        "IMAGEN": "ssets/img/pizza/vegetariana.jpg"
+        "IMAGEN": "assets/img/pizza/vegetariana.jpg"
       },
       {
         "id": 5,
@@ -133,7 +133,7 @@
             "id": 7,
             "NAME": "Cerveza",
             "DETAILS": "Corona, victoria , negra modelo, para la calor",
-            "PRICE": "25.00",
+            "PRICE": "30.00",
             "IMAGEN": "assets/img/bebidas/cerveza.jpg"
           },
           {
@@ -347,16 +347,16 @@
           },
           {
             "id": 2,
-            "NAME": "Alitas 12 pzs",
+            "NAME": "Alitas 6 pzs",
             "SABOR": ["BBQ","BBQ PICOSA","BUFFALO","TAMARINDO-HABANERO","MANGO-HABANERO"],
-            "PRICE": "120.00",
+            "PRICE": "70.00",
             "IMAGEN": "assets/img/alitas/alitas2.jpg"
           },
           {
             "id": 3,
-            "NAME": "Alitas 18 pzs",
+            "NAME": "Alitas 6 pzs",
             "SABOR": ["BBQ","BBQ PICOSA","BUFFALO","TAMARINDO-HABANERO","MANGO-HABANERO"],
-            "PRICE": "170.00",
+            "PRICE": "70.00",
             "IMAGEN": "assets/img/alitas/alitas3.jpg"
           }
         ],
