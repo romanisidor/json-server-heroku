@@ -5,84 +5,84 @@
         "NAME": "Hawaiana",
         "DETAILS": "Pizza hecha con jamón y piña",
         "PRICE":["100.00","140","170","200"],
-        "IMAGEN": "../../assets/img/pizza/hawaiana.jpg"
+        "IMAGEN": "assets/img/pizza/hawaiana.jpg"
       },
       {
         "id": 2,
         "NAME": "Pepperoni",
         "DETAILS": "Pizza hecha con pepperoni",
         "PRICE":["100.00","140","170","200"],
-        "IMAGEN": "../../assets/img/pizza/pepperoni.jpg"
+        "IMAGEN": "assets/img/pizza/pepperoni.jpg"
       },
       {
         "id": 3,
         "NAME": "Mexicana",
         "DETAILS": "Carne molida, pollo, chipotle, cebolla y aguacate",
         "PRICE":["100.00","150","180","210"],
-        "IMAGEN": "../../assets/img/pizza/mexicana.jpg"
+        "IMAGEN": "assets/img/pizza/mexicana.jpg"
       },
       {
         "id": 4,
         "NAME": "Vegetariana",
         "DETAILS": "Champiñón, morron, cebolla, granos de elote, piña y espinacas",
         "PRICE":["100.00","150","180","210"],
-        "IMAGEN": "../../assets/img/pizza/vegetariana.jpg"
+        "IMAGEN": "ssets/img/pizza/vegetariana.jpg"
       },
       {
         "id": 5,
         "NAME": "Amore Mio",
         "DETAILS": "Bistec, pollo, chorizo, cebolla y pimiento morron",
         "PRICE":["100.00","150","180","220"],
-        "IMAGEN": "../../assets/img/pizza/amoremio.jpg"
+        "IMAGEN": "assets/img/pizza/amoremio.jpg"
       },
       {
         "id": 6,
         "NAME": "Al pastor",
         "DETAILS": "Pastor, piña, cebolla, jalapeño y cilantro",
         "PRICE":["100.00","150","180","210"],
-        "IMAGEN": "../../assets/img/pizza/pastor.jpg"
+        "IMAGEN": "assets/img/pizza/pastor.jpg"
       },
       {
         "id": 7,
         "NAME": "Dulce Aroma",
         "DETAILS": "jitomate, ajo asado, y albahaca",
         "PRICE":["100.00","140","170","200"],
-        "IMAGEN": "../../assets/img/pizza/dulce.jpg"
+        "IMAGEN": "assets/img/pizza/dulce.jpg"
       },
       {
         "id": 8,
         "NAME": "Ranchera",
         "DETAILS": "Carne molida, chorizo, frijoles, cebolla y jalapeños",
         "PRICE":["100.00","150","180","210"],
-        "IMAGEN": "../../assets/img/pizza/ranchera.jpg"
+        "IMAGEN": "assets/img/pizza/ranchera.jpg"
       },
       {
         "id": 9,
         "NAME": "Carnes Frias",
         "DETAILS": "Jamón, salami, pepperoni y salchicha",
         "PRICE":["100.00","150","180","210"],
-        "IMAGEN": "../../assets/img/pizza/frias.jpg"
+        "IMAGEN": "assets/img/pizza/frias.jpg"
       },
       {
         "id": 10,
         "NAME": "Delicia",
         "DETAILS": "Jamón, salami, salchicha, cebolla y pimiento",
         "PRICE":["100.00","150","180","210"],
-        "IMAGEN": "../../assets/img/pizza/Delicia.jpg"
+        "IMAGEN": "assets/img/pizza/Delicia.jpg"
       },
       {
         "id": 11,
         "NAME": "Sole mio",
         "DETAILS": "Jamón, salami, salchicha, pimiento, cebolla, champiñón y piña",
         "PRICE":["100.00","150","180","210"],
-        "IMAGEN": "../../assets/img/pizza/sole.jpg"
+        "IMAGEN": "assets/img/pizza/sole.jpg"
       },
       {
         "id": 12,
         "NAME": "Atún",
         "DETAILS": "Atún, pimiento, cebolla, aceitunas y jalapeño",
         "PRICE":["100.00","140","170","200"],
-        "IMAGEN": "../../assets/img/pizza/atun.jpg"
+        "IMAGEN": "assets/img/pizza/atun.jpg"
       }
     ],
     
@@ -92,133 +92,133 @@
             "NAME": "Botella de agua",
             "DETAILS": "Botella de agua 600ml",
             "PRICE": "20.00",
-            "IMAGEN": "../../assets/img/bebidas/agua.jpg"
+            "IMAGEN": "assets/img/bebidas/agua.jpg"
           },
           {
             "id": 2,
             "NAME": "Refresco",
             "DETAILS": "Variedad de refrescos presentación de 600ml",
             "PRICE": "20.00",
-            "IMAGEN": "../../assets/img/bebidas/refresco.jpg"
+            "IMAGEN": "assets/img/bebidas/refresco.jpg"
           },
           {
             "id": 3,
             "NAME": "Agua de sabor ch",
             "DETAILS": "Deliciosa agua de jamaica o horchata",
             "PRICE": "20.00",
-            "IMAGEN": "../../assets/img/bebidas/agua_sabor.jpg"
+            "IMAGEN": "assets/img/bebidas/agua_sabor.jpg"
           },
           {
             "id": 4,
             "NAME": "Agua de sabor lt",
             "DETAILS": "Deliciosa agua de jamaica o horchata",
             "PRICE": "30.00",
-            "IMAGEN": "../../assets/img/bebidas/horchata.jpg"
+            "IMAGEN": "assets/img/bebidas/horchata.jpg"
           },
           {
             "id": 5,
             "NAME": "Jarra chica",
             "DETAILS": "Ideal si vienes con 3 personas ",
             "PRICE": "60.00",
-            "IMAGEN": "../../assets/img/bebidas/jarra_chica.jpg"
+            "IMAGEN": "assets/img/bebidas/jarra_chica.jpg"
           },
           {
             "id": 6,
             "NAME": "Jarra grande",
             "DETAILS": "Ideal si vienes en familia o amigos",
             "PRICE": "85.00",
-            "IMAGEN": "../../assets/img/bebidas/horchata.jpg"
+            "IMAGEN": "assets/img/bebidas/horchata.jpg"
           },
           {
             "id": 7,
             "NAME": "Cerveza",
             "DETAILS": "Corona, victoria , negra modelo, para la calor",
             "PRICE": "25.00",
-            "IMAGEN": "../../assets/img/bebidas/cerveza.jpg"
+            "IMAGEN": "assets/img/bebidas/cerveza.jpg"
           },
           {
             "id": 8,
             "NAME": "Michelada",
             "DETAILS": "Deliciosa michelada sal y limón",
             "PRICE": "40.00",
-            "IMAGEN": "../../assets/img/bebidas/michelada.jpg"
+            "IMAGEN": "assets/img/bebidas/michelada.jpg"
           },
           {
             "id": 9,
             "NAME": "Lesbiana",
             "DETAILS": "Deliciosa michelada salga maguie e inglesa",
             "PRICE": "55.00",
-            "IMAGEN": "../../assets/img/bebidas/lesbiana.jpg"
+            "IMAGEN": "assets/img/bebidas/lesbiana.jpg"
           },
           {
             "id": 10,
             "NAME": "Michamoy",
             "DETAILS": "Deliciosa michelada hecha con chamoy",
             "PRICE": "65.00",
-            "IMAGEN": "../../assets/img/bebidas/michamoy.jpg"
+            "IMAGEN": "assets/img/bebidas/michamoy.jpg"
           },
           {
             "id": 11,
             "NAME": "Cubana",
             "DETAILS": "Deliciosa michelada, clamato y salsas",
             "PRICE": "55.00",
-            "IMAGEN": "../../assets/img/bebidas/cubana.jpg"
+            "IMAGEN": "assets/img/bebidas/cubana.jpg"
           }, 
           {
             "id": 12,
             "NAME": "Piñada",
             "DETAILS": "Combina piña, coco y leche para que disfrutes",
             "PRICE": "55.00",
-            "IMAGEN": "../../assets/img/bebidas/piñada.jpg"
+            "IMAGEN": "assets/img/bebidas/piñada.jpg"
           },
           {
             "id": 13,
             "NAME": "Piña colada",
             "DETAILS": "Combina piña, coco, refrescante",
             "PRICE": "55.00",
-            "IMAGEN": "../../assets/img/bebidas/colada.jpg"
+            "IMAGEN": "assets/img/bebidas/colada.jpg"
           },
           {
             "id": 14,
             "NAME": "Limonada",
             "DETAILS": "Bebida de temporada, limones naturales",
             "PRICE": "40.00",
-            "IMAGEN": "../../assets/img/bebidas/limonada.jpg"
+            "IMAGEN": "assets/img/bebidas/limonada.jpg"
           },
           {
             "id": 15,
             "NAME": "Naranjada",
             "DETAILS": "Bebida de temporada, naranjas naturales",
             "PRICE": "40.00",
-            "IMAGEN": "../../assets/img/bebidas/naranjada.jpg"
+            "IMAGEN": "assets/img/bebidas/naranjada.jpg"
           },
           {
             "id": 16,
             "NAME": "Sangria",
             "DETAILS": "Disfruta de una rica bebida preparada con vino",
             "PRICE": "100.00",
-            "IMAGEN": "../../assets/img/bebidas/sangria.jpg"
+            "IMAGEN": "assets/img/bebidas/sangria.jpg"
           },
           {
             "id": 17,
             "NAME": "Margarita",
             "DETAILS": "Tequila con un toque de jugo de toronja",
             "PRICE": "100.00",
-            "IMAGEN": "../../assets/img/bebidas/margarita.jpg"
+            "IMAGEN": "assets/img/bebidas/margarita.jpg"
           },
           {
             "id": 18,
             "NAME": "Rusa",
             "DETAILS": "Agua mineral preparada con sal y limón",
             "PRICE": "40.00",
-            "IMAGEN": "../../assets/img/bebidas/rusa.jpg"
+            "IMAGEN": "assets/img/bebidas/rusa.jpg"
           },
           {
             "id": 19,
             "NAME": "Zihua de noche",
             "DETAILS": "Ron, tequila y jugo de toronja",
             "PRICE": "120.00",
-            "IMAGEN": "../../assets/img/bebidas/zihua.jpg"
+            "IMAGEN": "assets/img/bebidas/zihua.jpg"
           }
 ],
     "ENTRADAS": [
@@ -227,42 +227,42 @@
             "NAME": "Papas a la francesa",
             "DETAILS": "Disfruta de unas ricas papas",
             "PRICE": "45.00",
-            "IMAGEN": "../../assets/img/entradas/papas.jpg"
+            "IMAGEN": "assets/img/entradas/papas.jpg"
           },
           {
             "id": 2,
             "NAME": "Papas a la francesa",
             "DETAILS": "Papas con queso y tocino",
             "PRICE": "55.00",
-            "IMAGEN": "../../assets/img/entradas/papas_queso.jpg"
+            "IMAGEN": "assets/img/entradas/papas_queso.jpg"
           },
           {
             "id": 3,
             "NAME": "Papas gajo",
             "DETAILS": "Disfruta de unas ricas papas en gajo",
             "PRICE": "65.00",
-            "IMAGEN": "../../assets/img/entradas/gajo.jpg"
+            "IMAGEN": "assets/img/entradas/gajo.jpg"
           },
           {
             "id": 4,
             "NAME": "Papas gajo",
             "DETAILS": "Ricas papas en gajo con queso y tocino",
             "PRICE": "75.00",
-            "IMAGEN": "../../assets/img/entradas/gajo_queso.jpg"
+            "IMAGEN": "assets/img/entradas/gajo_queso.jpg"
           },
           {
             "id": 5,
             "NAME": "Nachos",
             "DETAILS": "Nachos con frijoles y queso",
             "PRICE": "70.00",
-            "IMAGEN": "../../assets/img/entradas/nachos.jpg"
+            "IMAGEN": "assets/img/entradas/nachos.jpg"
           },
           {
             "id": 6,
             "NAME": "Nachos",
             "DETAILS": "Hechos con pastor o bistec",
             "PRICE": "70.00",
-            "IMAGEN": "../../assets/img/entradas/nachos2.jpg"
+            "IMAGEN": "assets/img/entradas/nachos2.jpg"
           }
 ],
     "TACOS": [
@@ -271,70 +271,70 @@
         "NAME": "Tacos de bistec",
         "DETAILS": "Disfruta de ricos tacos de bistec",
         "PRICE": "25.00",
-        "IMAGEN": "../../assets/img/tacos/bistec.jpg"
+        "IMAGEN": "assets/img/tacos/bistec.jpg"
       },
       {
         "id": 2,
         "NAME": "Tacos al pastor",
         "DETAILS": "Disfruta de ricos tacos al pastor",
         "PRICE": "25.00",
-        "IMAGEN": "../../assets/img/tacos/pastor.jpg"
+        "IMAGEN": "assets/img/tacos/pastor.jpg"
       },
       {
         "id": 3,
         "NAME": "Tacos de chorizo",
         "DETAILS": "Disfruta de ricos tacos de chorizo",
         "PRICE": "25.00",
-        "IMAGEN": "../../assets/img/tacos/chorizo.jpg"
+        "IMAGEN": "assets/img/tacos/chorizo.jpg"
       },
       {
         "id": 4,
         "NAME": "Tacos de pollo",
         "DETAILS": "Disfruta de ricos tacos de pollo",
         "PRICE": "25.00",
-        "IMAGEN": "../../assets/img/tacos/pollo.jpg"
+        "IMAGEN": "assets/img/tacos/pollo.jpg"
       },
       {
         "id": 5,
         "NAME": "Tacos de camarón",
         "DETAILS": "Disfruta de ricos tacos de pollo",
         "PRICE": "35.00",
-        "IMAGEN": "../../assets/img/tacos/camaron.jpg"
+        "IMAGEN": "assets/img/tacos/camaron.jpg"
       },
       {
         "id": 6,
         "NAME": "Burrito de bistec",
         "DETAILS": "Tortilla de harina jumbo, frijoles, aguacate, queso, salsa picosa",
         "PRICE": "65.00",
-        "IMAGEN": "../../assets/img/tacos/burrito_bistec.jpg"
+        "IMAGEN": "assets/img/tacos/burrito_bistec.jpg"
       },
       {
         "id": 7,
         "NAME": "Burrito de pastor",
         "DETAILS": "Tortilla de harina jumbo, frijoles, aguacate, queso, salsa picosa",
         "PRICE": "65.00",
-        "IMAGEN": "../../assets/img/tacos/burrito_pastor.jpg"
+        "IMAGEN": "assets/img/tacos/burrito_pastor.jpg"
       },
       {
         "id": 8,
         "NAME": "Burrito de chorizo",
         "DETAILS": "Tortilla de harina jumbo, frijoles, aguacate, queso, salsa picosa",
         "PRICE": "65.00",
-        "IMAGEN": "../../assets/img/tacos/burrito_chorizo.jpg"
+        "IMAGEN": "assets/img/tacos/burrito_chorizo.jpg"
       },
       {
         "id": 9,
         "NAME": "Burrito de pollo",
         "DETAILS": "Tortilla de harina jumbo, frijoles, aguacate, queso, salsa picosa",
         "PRICE": "65.00",
-        "IMAGEN": "../../assets/img/tacos/burrito_pollo.jpg"
+        "IMAGEN": "assets/img/tacos/burrito_pollo.jpg"
       },
       {
         "id": 10,
         "NAME": "Burrito de camarón",
         "DETAILS": "Tortilla de harina jumbo, frijoles, aguacate, queso, salsa picosa",
         "PRICE": "75.00",
-        "IMAGEN": "../../assets/img/tacos/burrito_camaron.jpg"
+        "IMAGEN": "assets/img/tacos/burrito_camaron.jpg"
       }
     ],
     "ALITAS": [
@@ -343,59 +343,59 @@
             "NAME": "Alitas 6 pzs",
             "SABOR": ["BBQ","BBQ PICOSA","BUFFALO","TAMARINDO-HABANERO","MANGO-HABANERO"],
             "PRICE": "70.00",
-            "IMAGEN": "../../assets/img/alitas/alitas.jpg"
+            "IMAGEN": "assets/img/alitas/alitas.jpg"
           },
           {
             "id": 2,
             "NAME": "Alitas 12 pzs",
             "SABOR": ["BBQ","BBQ PICOSA","BUFFALO","TAMARINDO-HABANERO","MANGO-HABANERO"],
             "PRICE": "120.00",
-            "IMAGEN": "../../assets/img/alitas/alitas2.jpg"
+            "IMAGEN": "assets/img/alitas/alitas2.jpg"
           },
           {
             "id": 3,
             "NAME": "Alitas 18 pzs",
             "SABOR": ["BBQ","BBQ PICOSA","BUFFALO","TAMARINDO-HABANERO","MANGO-HABANERO"],
             "PRICE": "170.00",
-            "IMAGEN": "../../assets/img/alitas/alitas3.jpg"
+            "IMAGEN": "assets/img/alitas/alitas3.jpg"
           }
         ],
         "BURGER": [
           
             {
               "id": 1,
-              "NAME": "sencilla",
+              "NAME": "Sencilla",
               "DETALLE": "Hamburguesa Jamón y queso",
               "PRICE": "60.00",
-              "IMAGEN": "../../assets/img/alitas/burger.jpg"
+              "IMAGEN": "assets/img/alitas/burger.jpg"
             },
             {
               "id": 2,
               "NAME": "Hawaiana",
               "DETALLE": "Hamburguesa con jamón, queso y piña",
               "PRICE": "75.00",
-              "IMAGEN": "../../assets/img/alitas/hawaiana.jpg"
+              "IMAGEN": "assets/img/alitas/hawaiana.jpg"
             },
             {
               "id": 3,
               "NAME": "BBQ",
               "DETALLE": "Hamburguesa con salsa BBQ, jamón, queso y tocino",
               "PRICE": "75.00",
-              "IMAGEN": "../../assets/img/alitas/bbq.jpg"
+              "IMAGEN": "assets/img/alitas/bbq.jpg"
             },
             {
               "id": 4,
               "NAME": "De pastor",
               "DETALLE": "Hamburguesa con queso y piña",
               "PRICE": "80.00",
-              "IMAGEN": "../../assets/img/alitas/pastor.jpg"
+              "IMAGEN": "assets/img/alitas/pastor.jpg"
             },
             {
               "id": 5,
               "NAME": "Amore mio",
               "DETALLE": "Hamburguesa con jamón, queso, tocino, zanahoria rallada, papa frita",
               "PRICE": "80.00",
-              "IMAGEN": "../../assets/img/alitas/amoremio.jpg"
+              "IMAGEN": "assets/img/alitas/amoremio.jpg"
             }
           ],
           "PASTAS": [
@@ -405,56 +405,56 @@
               "NAME": "A la crema",
               "DETALLE": "Rica pasta a la crema",
               "PRICE": "70.00",
-              "IMAGEN": "../../assets/img/pastas/crema.jpg"
+              "IMAGEN": "assets/img/pastas/crema.jpg"
             },
             {
               "id": 2,
               "NAME": "A la bolognesa",
               "DETALLE": "La tradicional, como más te gusta",
               "PRICE": "85.00",
-              "IMAGEN": "../../assets/img/pastas/bolognesa.jpg"
+              "IMAGEN": "assets/img/pastas/bolognesa.jpg"
             },
             {
               "id": 3,
               "NAME": "Camarón o mixta",
               "DETALLE": "Disfruta de esta pasta, sabor al mar",
               "PRICE": "120.00",
-              "IMAGEN": "../../assets/img/pastas/camaron.jpg"
+              "IMAGEN": "assets/img/pastas/camaron.jpg"
             },
             {
               "id": 4,
               "NAME": "Napolitana",
               "DETALLE": "un clásico de la cocina italiana",
               "PRICE": "70.00",
-              "IMAGEN": "../../assets/img/pastas/napolitana.jpg"
+              "IMAGEN": "assets/img/pastas/napolitana.jpg"
             },
             {
               "id": 5,
               "NAME": "Pasta mixta",
               "DETALLE": "Deliciosa pasta de bistec o pastor",
               "PRICE": "100.00",
-              "IMAGEN": "../../assets/img/pastas/mixta.jpg"
+              "IMAGEN": "assets/img/pastas/mixta.jpg"
             },
             {
               "id": 6,
               "NAME": "Queso natural",
               "DETALLE": "Delicioso queso con sabor natural",
               "PRICE": "60.00",
-              "IMAGEN": "../../assets/img/pastas/natural.jpg"
+              "IMAGEN": "assets/img/pastas/natural.jpg"
             },
             {
               "id": 7,
               "NAME": "Choriqueso",
               "DETALLE": "Prueba e¡la combinacion del queso y chorizo",
               "PRICE": "65.00",
-              "IMAGEN": "../../assets/img/pastas/choriqueso.jpg"
+              "IMAGEN": "assets/img/pastas/choriqueso.jpg"
             },
             {
               "id": 7,
               "NAME": "Mixto",
               "DETALLE": "Pidelo a tu gusto",
               "PRICE": "75.00",
-              "IMAGEN": "../../assets/img/pastas/champiñon.jpg"
+              "IMAGEN": "assets/img/pastas/champiñon.jpg"
             }
           ]
   }
