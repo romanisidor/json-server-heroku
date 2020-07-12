@@ -269,69 +269,69 @@
     {
         "id": 1,
         "NAME": "Tacos de bistec",
-        "DETAILS": "Disfruta de ricos tacos de bistec",
+        "DETAILS": "(Tacos suaves o dorados en el comal)",
         "PRICE": "25.00",
         "IMAGEN": "assets/img/tacos/bistec.jpg"
       },
       {
         "id": 2,
         "NAME": "Tacos al pastor",
-        "DETAILS": "Disfruta de ricos tacos al pastor",
+        "DETAILS": "(Tacos suaves o dorados en el comal)",
         "PRICE": "25.00",
         "IMAGEN": "assets/img/tacos/pastor.jpg"
       },
       {
         "id": 3,
         "NAME": "Tacos de chorizo",
-        "DETAILS": "Disfruta de ricos tacos de chorizo",
+        "DETAILS": "(Tacos suaves o dorados en el comal)",
         "PRICE": "25.00",
         "IMAGEN": "assets/img/tacos/chorizo.jpg"
       },
       {
         "id": 4,
         "NAME": "Tacos de pollo",
-        "DETAILS": "Disfruta de ricos tacos de pollo",
+        "DETAILS": "(Tacos suaves o dorados en el comal)",
         "PRICE": "25.00",
         "IMAGEN": "assets/img/tacos/pollo.jpg"
       },
       {
         "id": 5,
-        "NAME": "Tacos de camarón",
-        "DETAILS": "Disfruta de ricos tacos de pollo",
+        "NAME": "Tacos de camarón a la diabla",
+        "DETAILS": "(Tacos suaves o dorados en el comal)",
         "PRICE": "35.00",
         "IMAGEN": "assets/img/tacos/camaron.jpg"
       },
       {
         "id": 6,
-        "NAME": "Burrito de bistec",
+        "NAME": "Burrito de bisteck",
         "DETAILS": "Tortilla de harina jumbo, frijoles, aguacate, queso, salsa picosa",
-        "PRICE": "65.00",
+        "PRICE": "55.00",
         "IMAGEN": "assets/img/tacos/burrito_bistec.jpg"
       },
       {
         "id": 7,
         "NAME": "Burrito de pastor",
         "DETAILS": "Tortilla de harina jumbo, frijoles, aguacate, queso, salsa picosa",
-        "PRICE": "65.00",
+        "PRICE": "55.00",
         "IMAGEN": "assets/img/tacos/burrito_pastor.jpg"
       },
       {
         "id": 8,
         "NAME": "Burrito de chorizo",
         "DETAILS": "Tortilla de harina jumbo, frijoles, aguacate, queso, salsa picosa",
-        "PRICE": "65.00",
+        "PRICE": "55.00",
         "IMAGEN": "assets/img/tacos/burrito_chorizo.jpg"
       },
       {
         "id": 9,
         "NAME": "Burrito de pollo",
         "DETAILS": "Tortilla de harina jumbo, frijoles, aguacate, queso, salsa picosa",
-        "PRICE": "65.00",
+        "PRICE": "55.00",
         "IMAGEN": "assets/img/tacos/burrito_pollo.jpg"
       },
       {
         "id": 10,
-        "NAME": "Burrito de camarón",
+        "NAME": "Burrito de camarón a la diabla",
         "DETAILS": "Tortilla de harina jumbo, frijoles, aguacate, queso, salsa picosa",
         "PRICE": "75.00",
         "IMAGEN": "assets/img/tacos/burrito_camaron.jpg"
@@ -344,20 +344,6 @@
             "SABOR": ["BBQ","BBQ PICOSA","BUFFALO","TAMARINDO-HABANERO","MANGO-HABANERO"],
             "PRICE": "70.00",
             "IMAGEN": "assets/img/alitas/alitas.jpg"
-          },
-          {
-            "id": 2,
-            "NAME": "Alitas 6 pzs",
-            "SABOR": ["BBQ","BBQ PICOSA","BUFFALO","TAMARINDO-HABANERO","MANGO-HABANERO"],
-            "PRICE": "70.00",
-            "IMAGEN": "assets/img/alitas/alitas2.jpg"
-          },
-          {
-            "id": 3,
-            "NAME": "Alitas 6 pzs",
-            "SABOR": ["BBQ","BBQ PICOSA","BUFFALO","TAMARINDO-HABANERO","MANGO-HABANERO"],
-            "PRICE": "70.00",
-            "IMAGEN": "assets/img/alitas/alitas3.jpg"
           }
         ],
         "BURGER": [
@@ -445,14 +431,14 @@
             {
               "id": 7,
               "NAME": "Choriqueso",
-              "DETALLE": "Prueba e¡la combinacion del queso y chorizo",
+              "DETALLE": "Prueba la combinacion del queso y chorizo",
               "PRICE": "65.00",
               "IMAGEN": "assets/img/pastas/choriqueso.jpg"
             },
             {
               "id": 7,
               "NAME": "Mixto",
-              "DETALLE": "Pidelo a tu gusto",
+              "DETALLE": "Chorizo, champiñón y morrón",
               "PRICE": "75.00",
               "IMAGEN": "assets/img/pastas/champiñon.jpg"
             }
