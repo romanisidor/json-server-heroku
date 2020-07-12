@@ -97,8 +97,8 @@
           {
             "id": 2,
             "NAME": "Refresco",
-            "DETAILS": "Variedad de refrescos presentación de 600ml",
-            "PRICE": "20.00",
+            "DETAILS": "Variedad de refrescos presentación de 600 ml",
+            "PRICE": "25.00",
             "IMAGEN": "assets/img/bebidas/refresco.jpg"
           },
           {
@@ -174,8 +174,8 @@
           {
             "id": 13,
             "NAME": "Piña colada",
-            "DETAILS": "Combina piña, coco, refrescante",
-            "PRICE": "55.00",
+            "DETAILS": "Combina piña, coco (contiene alcohol)",
+            "PRICE": "70.00",
             "IMAGEN": "assets/img/bebidas/colada.jpg"
           },
           {
@@ -261,7 +261,7 @@
             "id": 6,
             "NAME": "Nachos",
             "DETAILS": "Hechos con pastor o bistec",
-            "PRICE": "70.00",
+            "PRICE": "95.00",
             "IMAGEN": "assets/img/entradas/nachos2.jpg"
           }
 ],
