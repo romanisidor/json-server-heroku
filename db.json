@@ -216,7 +216,7 @@
           {
             "id": 19,
             "NAME": "Zihua de noche",
-            "DETAILS": "Ron, tequila y jugo de toronja",
+            "DETAILS": "Ron, tequila y jugo de naranja",
             "PRICE": "120.00",
             "IMAGEN": "assets/img/bebidas/zihua.jpg"
           }
@@ -269,35 +269,35 @@
     {
         "id": 1,
         "NAME": "Tacos de bistec",
-        "DETAILS": "(Tacos suaves o dorados en el comal)",
+        "DETAILS": "(Tacos suaves o dorados en el comal) Precio por pza.",
         "PRICE": "25.00",
         "IMAGEN": "assets/img/tacos/bistec.jpg"
       },
       {
         "id": 2,
         "NAME": "Tacos al pastor",
-        "DETAILS": "(Tacos suaves o dorados en el comal)",
+        "DETAILS": "(Tacos suaves o dorados en el comal) Precio por pza.",
         "PRICE": "25.00",
         "IMAGEN": "assets/img/tacos/pastor.jpg"
       },
       {
         "id": 3,
         "NAME": "Tacos de chorizo",
-        "DETAILS": "(Tacos suaves o dorados en el comal)",
+        "DETAILS": "(Tacos suaves o dorados en el comal) Precio por pza.",
         "PRICE": "25.00",
         "IMAGEN": "assets/img/tacos/chorizo.jpg"
       },
       {
         "id": 4,
         "NAME": "Tacos de pollo",
-        "DETAILS": "(Tacos suaves o dorados en el comal)",
+        "DETAILS": "(Tacos suaves o dorados en el comal) Precio por pza.",
         "PRICE": "25.00",
         "IMAGEN": "assets/img/tacos/pollo.jpg"
       },
       {
         "id": 5,
         "NAME": "Tacos de camarón a la diabla",
-        "DETAILS": "(Tacos suaves o dorados en el comal)",
+        "DETAILS": "(Tacos suaves o dorados en el comal) Precio por pza.",
         "PRICE": "35.00",
         "IMAGEN": "assets/img/tacos/camaron.jpg"
       },
@@ -379,7 +379,7 @@
             {
               "id": 5,
               "NAME": "Amore mio",
-              "DETALLE": "Hamburguesa con jamón, queso, tocino, zanahoria rayada, papa crujiente frita y chile verde picado",
+              "DETALLE": "Hamburguesa con jamón, queso, tocino, zanahoria rayada, papa crujiente rayada y chile verde picado",
               "PRICE": "80.00",
               "IMAGEN": "assets/img/alitas/amoremio.jpg"
             }
@@ -403,14 +403,14 @@
             {
               "id": 3,
               "NAME": "Camarón o mixta",
-              "DETALLE": "Disfruta de esta pasta, sabor al mar",
+              "DETALLE": "Pasta a la crema con camarón o mixta",
               "PRICE": "120.00",
               "IMAGEN": "assets/img/pastas/camaron.jpg"
             },
             {
               "id": 4,
               "NAME": "Napolitana",
-              "DETALLE": "un clásico de la cocina italiana",
+              "DETALLE": "Un clásico de la cocina italiana",
               "PRICE": "70.00",
               "IMAGEN": "assets/img/pastas/napolitana.jpg"
             },
