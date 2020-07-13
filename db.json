@@ -90,7 +90,7 @@
         {
             "id": 1,
             "NAME": "Botella de agua",
-            "DETAILS": "Botella de agua 600ml",
+            "DETAILS": "Botella de agua 600 ml",
             "PRICE": "20.00",
             "IMAGEN": "assets/img/bebidas/agua.jpg"
           },
@@ -104,14 +104,14 @@
           {
             "id": 3,
             "NAME": "Agua de sabor ch",
-            "DETAILS": "Deliciosa agua de jamaica o horchata",
+            "DETAILS": "Pregunta por el agua del día",
             "PRICE": "20.00",
             "IMAGEN": "assets/img/bebidas/agua_sabor.jpg"
           },
           {
             "id": 4,
-            "NAME": "Agua de sabor lt",
-            "DETAILS": "Deliciosa agua de jamaica o horchata",
+            "NAME": "Agua de sabor 1 lt",
+            "DETAILS": "Pregunta por el agua del día",
             "PRICE": "30.00",
             "IMAGEN": "assets/img/bebidas/horchata.jpg"
           },
@@ -146,7 +146,7 @@
           {
             "id": 9,
             "NAME": "Lesbiana",
-            "DETAILS": "Deliciosa michelada salga maguie e inglesa",
+            "DETAILS": "Deliciosa michelada con salsa maggi e inglesa",
             "PRICE": "55.00",
             "IMAGEN": "assets/img/bebidas/lesbiana.jpg"
           },
@@ -194,7 +194,7 @@
           },
           {
             "id": 16,
-            "NAME": "Sangria",
+            "NAME": "Sangría",
             "DETAILS": "Disfruta de una rica bebida preparada con vino",
             "PRICE": "100.00",
             "IMAGEN": "assets/img/bebidas/sangria.jpg"
@@ -210,7 +210,7 @@
             "id": 18,
             "NAME": "Rusa",
             "DETAILS": "Agua mineral preparada con sal y limón",
-            "PRICE": "40.00",
+            "PRICE": "30.00",
             "IMAGEN": "assets/img/bebidas/rusa.jpg"
           },
           {
