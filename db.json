@@ -174,7 +174,7 @@
           {
             "id": 13,
             "NAME": "Piña colada",
-            "DETAILS": "Combina piña, coco (contiene alcohol)",
+            "DETAILS": "Combina piña y coco (contiene alcohol)",
             "PRICE": "70.00",
             "IMAGEN": "assets/img/bebidas/colada.jpg"
           },
@@ -351,28 +351,28 @@
             {
               "id": 1,
               "NAME": "Sencilla",
-              "DETALLE": "Hamburguesa Jamón y queso",
+              "DETALLE": "Hamburguesa con jamón y queso (Incluye papas)",
               "PRICE": "60.00",
               "IMAGEN": "assets/img/alitas/burger.jpg"
             },
             {
               "id": 2,
               "NAME": "Hawaiana",
-              "DETALLE": "Hamburguesa con jamón, queso y piña",
+              "DETALLE": "Hamburguesa con jamón, queso y piña (Incluye papas)",
               "PRICE": "75.00",
               "IMAGEN": "assets/img/alitas/hawaiana.jpg"
             },
             {
               "id": 3,
               "NAME": "BBQ",
-              "DETALLE": "Hamburguesa con salsa BBQ, jamón, queso y tocino",
+              "DETALLE": "Hamburguesa con salsa BBQ, jamón, queso y tocino (Incluye papas)",
               "PRICE": "75.00",
               "IMAGEN": "assets/img/alitas/bbq.jpg"
             },
             {
               "id": 4,
               "NAME": "De pastor",
-              "DETALLE": "Hamburguesa con queso y piña",
+              "DETALLE": "Hamburguesa con queso y piña (Incluye papas)",
               "PRICE": "80.00",
               "IMAGEN": "assets/img/alitas/pastor.jpg"
             },
@@ -382,6 +382,13 @@
               "DETALLE": "Hamburguesa con jamón, queso, tocino, zanahoria rayada, papa crujiente rayada y chile verde picado",
               "PRICE": "80.00",
               "IMAGEN": "assets/img/alitas/amoremio.jpg"
+            },
+            {
+              "id": 6,
+              "NAME": "Pizza burger",
+              "DETALLE": "Hamburguesa cubierta con queso y pepperoni",
+              "PRICE": "100.00",
+              "IMAGEN": "assets/img/alitas/pizzaburger.jpg"
             }
           ],
           "PASTAS": [
@@ -410,7 +417,7 @@
             {
               "id": 4,
               "NAME": "Napolitana",
-              "DETALLE": "Un clásico de la cocina italiana",
+              "DETALLE": "Con una rica salsa de tomate",
               "PRICE": "70.00",
               "IMAGEN": "assets/img/pastas/napolitana.jpg"
             },
